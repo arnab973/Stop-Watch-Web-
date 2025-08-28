@@ -1,3 +1,3 @@
 # Stop-Watch-Web-
 It is a  user-friendly stopwatch web application.  Implement functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, users can accurately measure and record time intervals.
-For Live Demo ypu visit this link - https://advstopwatchs.netlify.app/
+For Live Demo you visit this link - https://advstopwatchs.netlify.app/
